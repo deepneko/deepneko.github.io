@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0">
+<channel>
+        <title>kokotech</title>
+        <description>kokotech - deepneko</description>
+        <link>http://deepneko.github.io</link>
+        <link>http://deepneko.github.io</link>
+        <lastBuildDate>2014-09-21T20:31:11-05:00</lastBuildDate>
+        <pubDate>2014-09-21T20:31:11-05:00</pubDate>
+        <ttl>1800</ttl>
+
+
+        <item>
+                <title>kokotech再開</title>
+                <description>&lt;p&gt;技術メモを書いていこうと思う。&lt;/p&gt;
+
+&lt;p&gt;以前も似たようなサイトを自前で持ってたんだがデータがどっか行った。&lt;br /&gt;
+wordpressで構築していたが、個人的に恐ろしく使いづらかった感じがするので&lt;br /&gt;
+探す気も起きない。  &lt;/p&gt;
+
+&lt;p&gt;このサイトは、jekyll-bootstrapをちょろちょろ書き換えてgithub.ioに&lt;br /&gt;
+ディプロイしたがかなり良いね。Sinatra+herokuとはまた違った使いやすさがある。  &lt;/p&gt;
+</description>
+                <link>http://deepneko.github.io/2014/09/21/kokotech_new</link>
+                <guid>http://deepneko.github.io/2014/09/21/kokotech_new</guid>
+                <pubDate>2014-09-21T15:23:18-05:00</pubDate>
+        </item>
+
+
+</channel>
+</rss>

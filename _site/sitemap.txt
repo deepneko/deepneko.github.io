@@ -1,0 +1,9 @@
+
+http://deepneko.github.io/archive.html
+http://deepneko.github.io/atom.xml
+http://deepneko.github.io/index.html
+http://deepneko.github.io/rss.xml
+http://deepneko.github.io/sitemap.txt
+http://deepneko.github.io/tags.html
+
+http://deepneko.github.io/2014/09/21/kokotech_new
