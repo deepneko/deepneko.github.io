@@ -4,7 +4,7 @@
  <title>kokotech</title>
  <link href="http://deepneko.github.io/" rel="self"/>
  <link href="http://deepneko.github.io"/>
- <updated>2014-11-27T11:46:35-06:00</updated>
+ <updated>2014-11-27T13:56:55-06:00</updated>
  <id>http://deepneko.github.io</id>
  <author>
    <name>deepneko</name>
@@ -13,12 +13,47 @@
 
  
  <entry>
-   <title>5日と25日の移動平均線データ</title>
+   <title>移動平均線データ 短期5日,長期25日</title>
    <link href="http://deepneko.github.io/2014/11/27/fx_ma_data"/>
    <updated>2014-11-27T05:41:22-06:00</updated>
    <id>http://deepneko.github.io/2014/11/27/fx_ma_data</id>
-   <content type="html">&lt;p&gt;hoge&lt;/p&gt;
+   <content type="html">&lt;p&gt;単純なクロス交差法
+5年分(2009/10-2014/10)
+利食い 500, 損切り 1000で固定&lt;/p&gt;
 
+&lt;ul&gt;
+  &lt;li&gt;
+    &lt;p&gt;日足
+&lt;img src=&quot;Simple_MA2_test1_USDJPY_D1.gif&quot; width=&quot;820&quot; height=&quot;200&quot; border=&quot;0&quot; /&gt;&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;4時間足
+&lt;img src=&quot;Simple_MA2_test1_USDJPY_H4.gif&quot; width=&quot;820&quot; height=&quot;200&quot; border=&quot;0&quot; /&gt;&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;1時間足
+&lt;img src=&quot;Simple_MA2_test1_USDJPY_H1.gif&quot; width=&quot;820&quot; height=&quot;200&quot; border=&quot;0&quot; /&gt;&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;30分足
+&lt;img src=&quot;Simple_MA2_test1_USDJPY_M30.gif&quot; width=&quot;820&quot; height=&quot;200&quot; border=&quot;0&quot; /&gt;&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;15分足
+&lt;img src=&quot;Simple_MA2_test1_USDJPY_M15.gif&quot; width=&quot;820&quot; height=&quot;200&quot; border=&quot;0&quot; /&gt;&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;5分足
+&lt;img src=&quot;Simple_MA2_test1_USDJPY_M5.gif&quot; width=&quot;820&quot; height=&quot;200&quot; border=&quot;0&quot; /&gt;&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;1分足
+&lt;img src=&quot;Simple_MA2_test1_USDJPY_M1.gif&quot; width=&quot;820&quot; height=&quot;200&quot; border=&quot;0&quot; /&gt;&lt;/p&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;こんな単純なプログラムでも1時間足で利益が出てるのが意外。
+結構ランダムでドローダウンもあるから微妙だけど。&lt;/p&gt;
 </content>
  </entry>
  

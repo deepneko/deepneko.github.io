@@ -5,15 +5,50 @@
         <description>kokotech - deepneko</description>
         <link>http://deepneko.github.io</link>
         <link>http://deepneko.github.io</link>
-        <lastBuildDate>2014-11-27T11:46:35-06:00</lastBuildDate>
-        <pubDate>2014-11-27T11:46:35-06:00</pubDate>
+        <lastBuildDate>2014-11-27T13:56:55-06:00</lastBuildDate>
+        <pubDate>2014-11-27T13:56:55-06:00</pubDate>
         <ttl>1800</ttl>
 
 
         <item>
-                <title>5日と25日の移動平均線データ</title>
-                <description>&lt;p&gt;hoge&lt;/p&gt;
+                <title>移動平均線データ 短期5日,長期25日</title>
+                <description>&lt;p&gt;単純なクロス交差法
+5年分(2009/10-2014/10)
+利食い 500, 損切り 1000で固定&lt;/p&gt;
 
+&lt;ul&gt;
+  &lt;li&gt;
+    &lt;p&gt;日足
+&lt;img src=&quot;Simple_MA2_test1_USDJPY_D1.gif&quot; width=&quot;820&quot; height=&quot;200&quot; border=&quot;0&quot; /&gt;&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;4時間足
+&lt;img src=&quot;Simple_MA2_test1_USDJPY_H4.gif&quot; width=&quot;820&quot; height=&quot;200&quot; border=&quot;0&quot; /&gt;&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;1時間足
+&lt;img src=&quot;Simple_MA2_test1_USDJPY_H1.gif&quot; width=&quot;820&quot; height=&quot;200&quot; border=&quot;0&quot; /&gt;&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;30分足
+&lt;img src=&quot;Simple_MA2_test1_USDJPY_M30.gif&quot; width=&quot;820&quot; height=&quot;200&quot; border=&quot;0&quot; /&gt;&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;15分足
+&lt;img src=&quot;Simple_MA2_test1_USDJPY_M15.gif&quot; width=&quot;820&quot; height=&quot;200&quot; border=&quot;0&quot; /&gt;&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;5分足
+&lt;img src=&quot;Simple_MA2_test1_USDJPY_M5.gif&quot; width=&quot;820&quot; height=&quot;200&quot; border=&quot;0&quot; /&gt;&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;1分足
+&lt;img src=&quot;Simple_MA2_test1_USDJPY_M1.gif&quot; width=&quot;820&quot; height=&quot;200&quot; border=&quot;0&quot; /&gt;&lt;/p&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;こんな単純なプログラムでも1時間足で利益が出てるのが意外。
+結構ランダムでドローダウンもあるから微妙だけど。&lt;/p&gt;
 </description>
                 <link>http://deepneko.github.io/2014/11/27/fx_ma_data</link>
                 <guid>http://deepneko.github.io/2014/11/27/fx_ma_data</guid>
