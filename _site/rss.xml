@@ -5,8 +5,8 @@
         <description>kokotech - deepneko</description>
         <link>http://deepneko.github.io</link>
         <link>http://deepneko.github.io</link>
-        <lastBuildDate>2014-11-27T14:05:12-06:00</lastBuildDate>
-        <pubDate>2014-11-27T14:05:12-06:00</pubDate>
+        <lastBuildDate>2014-11-27T14:08:40-06:00</lastBuildDate>
+        <pubDate>2014-11-27T14:08:40-06:00</pubDate>
         <ttl>1800</ttl>
 
 
@@ -19,31 +19,31 @@
 &lt;ul&gt;
   &lt;li&gt;
     &lt;p&gt;日足
-&lt;img src=&quot;/assets/screenshot.jpg&quot; alt=&quot;Nissoku&quot; /&gt;&lt;/p&gt;
+&lt;img src=&quot;/assets/simple_ma2/Simple_MA2_test1_USDJPY_D1.gif&quot; alt=&quot;日足&quot; /&gt;&lt;/p&gt;
   &lt;/li&gt;
   &lt;li&gt;
     &lt;p&gt;4時間足
-&lt;img src=&quot;Simple_MA2_test1_USDJPY_H4.gif&quot; width=&quot;820&quot; height=&quot;200&quot; border=&quot;0&quot; /&gt;&lt;/p&gt;
+&lt;img src=&quot;/assets/simple_ma2/Simple_MA2_test1_USDJPY_H4.gif&quot; alt=&quot;4時間足&quot; /&gt;&lt;/p&gt;
   &lt;/li&gt;
   &lt;li&gt;
     &lt;p&gt;1時間足
-&lt;img src=&quot;Simple_MA2_test1_USDJPY_H1.gif&quot; width=&quot;820&quot; height=&quot;200&quot; border=&quot;0&quot; /&gt;&lt;/p&gt;
+&lt;img src=&quot;/assets/simple_ma2/Simple_MA2_test1_USDJPY_H1.gif&quot; alt=&quot;1時間足&quot; /&gt;&lt;/p&gt;
   &lt;/li&gt;
   &lt;li&gt;
     &lt;p&gt;30分足
-&lt;img src=&quot;Simple_MA2_test1_USDJPY_M30.gif&quot; width=&quot;820&quot; height=&quot;200&quot; border=&quot;0&quot; /&gt;&lt;/p&gt;
+&lt;img src=&quot;/assets/simple_ma2/Simple_MA2_test1_USDJPY_M30.gif&quot; alt=&quot;30分足&quot; /&gt;&lt;/p&gt;
   &lt;/li&gt;
   &lt;li&gt;
     &lt;p&gt;15分足
-&lt;img src=&quot;Simple_MA2_test1_USDJPY_M15.gif&quot; width=&quot;820&quot; height=&quot;200&quot; border=&quot;0&quot; /&gt;&lt;/p&gt;
+&lt;img src=&quot;/assets/simple_ma2/Simple_MA2_test1_USDJPY_M15.gif&quot; alt=&quot;15分足&quot; /&gt;&lt;/p&gt;
   &lt;/li&gt;
   &lt;li&gt;
     &lt;p&gt;5分足
-&lt;img src=&quot;Simple_MA2_test1_USDJPY_M5.gif&quot; width=&quot;820&quot; height=&quot;200&quot; border=&quot;0&quot; /&gt;&lt;/p&gt;
+&lt;img src=&quot;/assets/simple_ma2/Simple_MA2_test1_USDJPY_M5.gif&quot; alt=&quot;5分足&quot; /&gt;&lt;/p&gt;
   &lt;/li&gt;
   &lt;li&gt;
     &lt;p&gt;1分足
-&lt;img src=&quot;Simple_MA2_test1_USDJPY_M1.gif&quot; width=&quot;820&quot; height=&quot;200&quot; border=&quot;0&quot; /&gt;&lt;/p&gt;
+&lt;img src=&quot;/assets/simple_ma2/Simple_MA2_test1_USDJPY_M1.gif&quot; alt=&quot;1分足&quot; /&gt;&lt;/p&gt;
   &lt;/li&gt;
 &lt;/ul&gt;
 
