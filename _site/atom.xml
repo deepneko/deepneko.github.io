@@ -4,13 +4,23 @@
  <title>kokotech</title>
  <link href="http://deepneko.github.io/" rel="self"/>
  <link href="http://deepneko.github.io"/>
- <updated>2014-09-21T20:31:11-05:00</updated>
+ <updated>2014-11-27T11:46:35-06:00</updated>
  <id>http://deepneko.github.io</id>
  <author>
    <name>deepneko</name>
    <email>blah@email.test</email>
  </author>
 
+ 
+ <entry>
+   <title>5日と25日の移動平均線データ</title>
+   <link href="http://deepneko.github.io/2014/11/27/fx_ma_data"/>
+   <updated>2014-11-27T05:41:22-06:00</updated>
+   <id>http://deepneko.github.io/2014/11/27/fx_ma_data</id>
+   <content type="html">&lt;p&gt;hoge&lt;/p&gt;
+
+</content>
+ </entry>
  
  <entry>
    <title>kokotech再開</title>
@@ -20,11 +30,11 @@
    <content type="html">&lt;p&gt;技術メモを書いていこうと思う。&lt;/p&gt;
 
 &lt;p&gt;以前も似たようなサイトを自前で持ってたんだがデータがどっか行った。&lt;br /&gt;
-wordpressで構築していたが、個人的に恐ろしく使いづらかった感じがするので&lt;br /&gt;
-探す気も起きない。  &lt;/p&gt;
+wordpressで構築していたが、恐ろしく使いづらかった感じがするので探す気も起きない。  &lt;/p&gt;
 
 &lt;p&gt;このサイトは、jekyll-bootstrapをちょろちょろ書き換えてgithub.ioに&lt;br /&gt;
-ディプロイしたがかなり良いね。Sinatra+herokuとはまた違った使いやすさがある。  &lt;/p&gt;
+ディプロイしたがかなり良いね。Sinatra+herokuとはまた違った使いやすさがある。&lt;br /&gt;
+Markdownで書けるのも良い。&lt;/p&gt;
 </content>
  </entry>
  
