@@ -5,49 +5,39 @@
         <description>kokotech - deepneko</description>
         <link>http://deepneko.github.io</link>
         <link>http://deepneko.github.io</link>
-        <lastBuildDate>2014-11-27T14:08:40-06:00</lastBuildDate>
-        <pubDate>2014-11-27T14:08:40-06:00</pubDate>
+        <lastBuildDate>2014-11-27T14:10:58-06:00</lastBuildDate>
+        <pubDate>2014-11-27T14:10:58-06:00</pubDate>
         <ttl>1800</ttl>
 
 
         <item>
                 <title>移動平均線データ 短期5日,長期25日</title>
-                <description>&lt;p&gt;単純なクロス交差法
-5年分(2009/10-2014/10)
-利食い 500, 損切り 1000で固定&lt;/p&gt;
+                <description>&lt;p&gt;単純なクロス交差法&lt;br /&gt;
+5年分(2009/10-2014/10)&lt;br /&gt;
+利食い 500, 損切り 1000で固定  &lt;/p&gt;
 
-&lt;ul&gt;
-  &lt;li&gt;
-    &lt;p&gt;日足
-&lt;img src=&quot;/assets/simple_ma2/Simple_MA2_test1_USDJPY_D1.gif&quot; alt=&quot;日足&quot; /&gt;&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;4時間足
-&lt;img src=&quot;/assets/simple_ma2/Simple_MA2_test1_USDJPY_H4.gif&quot; alt=&quot;4時間足&quot; /&gt;&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;1時間足
-&lt;img src=&quot;/assets/simple_ma2/Simple_MA2_test1_USDJPY_H1.gif&quot; alt=&quot;1時間足&quot; /&gt;&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;30分足
-&lt;img src=&quot;/assets/simple_ma2/Simple_MA2_test1_USDJPY_M30.gif&quot; alt=&quot;30分足&quot; /&gt;&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;15分足
-&lt;img src=&quot;/assets/simple_ma2/Simple_MA2_test1_USDJPY_M15.gif&quot; alt=&quot;15分足&quot; /&gt;&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;5分足
-&lt;img src=&quot;/assets/simple_ma2/Simple_MA2_test1_USDJPY_M5.gif&quot; alt=&quot;5分足&quot; /&gt;&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;1分足
-&lt;img src=&quot;/assets/simple_ma2/Simple_MA2_test1_USDJPY_M1.gif&quot; alt=&quot;1分足&quot; /&gt;&lt;/p&gt;
-  &lt;/li&gt;
-&lt;/ul&gt;
+&lt;h1 id=&quot;section&quot;&gt;日足&lt;/h1&gt;
+&lt;p&gt;&lt;img src=&quot;/assets/simple_ma2/Simple_MA2_test1_USDJPY_D1.gif&quot; alt=&quot;日足&quot; /&gt;  &lt;/p&gt;
 
-&lt;p&gt;こんな単純なプログラムでも1時間足で利益が出てるのが意外。
+&lt;h1 id=&quot;section-1&quot;&gt;4時間足&lt;/h1&gt;
+&lt;p&gt;&lt;img src=&quot;/assets/simple_ma2/Simple_MA2_test1_USDJPY_H4.gif&quot; alt=&quot;4時間足&quot; /&gt;  &lt;/p&gt;
+
+&lt;h1 id=&quot;section-2&quot;&gt;1時間足&lt;/h1&gt;
+&lt;p&gt;&lt;img src=&quot;/assets/simple_ma2/Simple_MA2_test1_USDJPY_H1.gif&quot; alt=&quot;1時間足&quot; /&gt;  &lt;/p&gt;
+
+&lt;h1 id=&quot;section-3&quot;&gt;30分足&lt;/h1&gt;
+&lt;p&gt;&lt;img src=&quot;/assets/simple_ma2/Simple_MA2_test1_USDJPY_M30.gif&quot; alt=&quot;30分足&quot; /&gt;  &lt;/p&gt;
+
+&lt;h1 id=&quot;section-4&quot;&gt;15分足&lt;/h1&gt;
+&lt;p&gt;&lt;img src=&quot;/assets/simple_ma2/Simple_MA2_test1_USDJPY_M15.gif&quot; alt=&quot;15分足&quot; /&gt;  &lt;/p&gt;
+
+&lt;h1 id=&quot;section-5&quot;&gt;5分足&lt;/h1&gt;
+&lt;p&gt;&lt;img src=&quot;/assets/simple_ma2/Simple_MA2_test1_USDJPY_M5.gif&quot; alt=&quot;5分足&quot; /&gt;  &lt;/p&gt;
+
+&lt;h1 id=&quot;section-6&quot;&gt;1分足&lt;/h1&gt;
+&lt;p&gt;&lt;img src=&quot;/assets/simple_ma2/Simple_MA2_test1_USDJPY_M1.gif&quot; alt=&quot;1分足&quot; /&gt;  &lt;/p&gt;
+
+&lt;p&gt;こんな単純なプログラムでも1時間足で利益が出てるのが意外。&lt;br /&gt;
 結構ランダムでドローダウンもあるから微妙だけど。&lt;/p&gt;
 </description>
                 <link>http://deepneko.github.io/2014/11/27/fx_ma_data</link>
