@@ -4,7 +4,7 @@
  <title>kokotech</title>
  <link href="http://deepneko.github.io/" rel="self"/>
  <link href="http://deepneko.github.io"/>
- <updated>2014-11-27T14:21:24-06:00</updated>
+ <updated>2014-11-27T14:28:25-06:00</updated>
  <id>http://deepneko.github.io</id>
  <author>
    <name>deepneko</name>
@@ -34,7 +34,7 @@
 &lt;img src=&quot;/assets/simple_ma2/Simple_MA2_test1_USDJPY_H1.gif&quot; alt=&quot;1時間足&quot; /&gt;  &lt;/p&gt;
 
 &lt;h4 id=&quot;section-3&quot;&gt;30分足&lt;/h4&gt;
-&lt;p&gt;PF 0.91, Drawdown 37.91%
+&lt;p&gt;PF 0.91, Drawdown 37.41%
 &lt;img src=&quot;/assets/simple_ma2/Simple_MA2_test1_USDJPY_M30.gif&quot; alt=&quot;30分足&quot; /&gt;  &lt;/p&gt;
 
 &lt;h4 id=&quot;section-4&quot;&gt;15分足&lt;/h4&gt;
