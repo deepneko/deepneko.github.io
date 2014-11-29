@@ -4,7 +4,7 @@
  <title>kokotech</title>
  <link href="http://deepneko.github.io/" rel="self"/>
  <link href="http://deepneko.github.io"/>
- <updated>2014-11-29T15:32:41-06:00</updated>
+ <updated>2014-11-29T15:33:52-06:00</updated>
  <id>http://deepneko.github.io</id>
  <author>
    <name>deepneko</name>
@@ -17,7 +17,7 @@
    <link href="http://deepneko.github.io/2014/11/29/fx_macd_st"/>
    <updated>2014-11-29T09:22:00-06:00</updated>
    <id>http://deepneko.github.io/2014/11/29/fx_macd_st</id>
-   <content type="html">&lt;p&gt;MACD(短期EMA 12日、長期EMA 26日、MACDシグナル 7日 + ストキャスティクス(%K=5, %D=3, Slow%D=3)&lt;br /&gt;
+   <content type="html">&lt;p&gt;MACD(短期EMA12日、長期EMA26日、MACDシグナル7日) + ストキャスティクス(%K=5, %D=3, Slow%D=3)&lt;br /&gt;
 USDJPY 5年分(2009/10-2014/10)&lt;br /&gt;
 利食い 500, 損切り 1000, スプレッド 10で固定  &lt;/p&gt;
 
