@@ -5,8 +5,8 @@
         <description>kokotech - deepneko</description>
         <link>http://deepneko.github.io</link>
         <link>http://deepneko.github.io</link>
-        <lastBuildDate>2014-11-29T17:25:09-06:00</lastBuildDate>
-        <pubDate>2014-11-29T17:25:09-06:00</pubDate>
+        <lastBuildDate>2014-11-29T17:25:44-06:00</lastBuildDate>
+        <pubDate>2014-11-29T17:25:44-06:00</pubDate>
         <ttl>1800</ttl>
 
 
@@ -59,26 +59,26 @@ MACDは使用していない。移動平均200日, 100日と為替レートの�
 利食い 1000, 損切り 1000, スプレッド 10で固定  &lt;/p&gt;
 
 &lt;h4 id=&quot;section&quot;&gt;日足&lt;/h4&gt;
-&lt;p&gt;&lt;img src=&quot;/assets/ma200_100_macd/MA200_100_MACD_ma200_100_macd_USDJPY_.gif&quot; alt=&quot;日足&quot; /&gt;  &lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;/assets/ma200_100_macd/MA200_100_MACD_ma200_100_macd_USDJPY_D1.gif&quot; alt=&quot;日足&quot; /&gt;  &lt;/p&gt;
 
 &lt;h4 id=&quot;section-1&quot;&gt;4時間足&lt;/h4&gt;
-&lt;p&gt;&lt;img src=&quot;/assets/ma200_100_macd/MA200_100_MACD_ma200_100_macd_USDJPY_.gif&quot; alt=&quot;4時間足&quot; /&gt;  &lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;/assets/ma200_100_macd/MA200_100_MACD_ma200_100_macd_USDJPY_H4.gif&quot; alt=&quot;4時間足&quot; /&gt;  &lt;/p&gt;
 
 &lt;h4 id=&quot;section-2&quot;&gt;1時間足&lt;/h4&gt;
 &lt;p&gt;PF 1.38, Drawdown 8.00%&lt;br /&gt;
-&lt;img src=&quot;/assets/ma200_100_macd/MA200_100_MACD_ma200_100_macd_USDJPY_.gif&quot; alt=&quot;1時間足&quot; /&gt;  &lt;/p&gt;
+&lt;img src=&quot;/assets/ma200_100_macd/MA200_100_MACD_ma200_100_macd_USDJPY_H1.gif&quot; alt=&quot;1時間足&quot; /&gt;  &lt;/p&gt;
 
 &lt;h4 id=&quot;section-3&quot;&gt;30分足&lt;/h4&gt;
-&lt;p&gt;&lt;img src=&quot;/assets/ma200_100_macd/MA200_100_MACD_ma200_100_macd_USDJPY_.gif&quot; alt=&quot;30分足&quot; /&gt;  &lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;/assets/ma200_100_macd/MA200_100_MACD_ma200_100_macd_USDJPY_M30.gif&quot; alt=&quot;30分足&quot; /&gt;  &lt;/p&gt;
 
 &lt;h4 id=&quot;section-4&quot;&gt;15分足&lt;/h4&gt;
-&lt;p&gt;&lt;img src=&quot;/assets/ma200_100_macd/MA200_100_MACD_ma200_100_macd_USDJPY_.gif&quot; alt=&quot;15分足&quot; /&gt;  &lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;/assets/ma200_100_macd/MA200_100_MACD_ma200_100_macd_USDJPY_M15.gif&quot; alt=&quot;15分足&quot; /&gt;  &lt;/p&gt;
 
 &lt;h4 id=&quot;section-5&quot;&gt;5分足&lt;/h4&gt;
-&lt;p&gt;&lt;img src=&quot;/assets/ma200_100_macd/MA200_100_MACD_ma200_100_macd_USDJPY_.gif&quot; alt=&quot;5分足&quot; /&gt;  &lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;/assets/ma200_100_macd/MA200_100_MACD_ma200_100_macd_USDJPY_M5.gif&quot; alt=&quot;5分足&quot; /&gt;  &lt;/p&gt;
 
 &lt;h4 id=&quot;section-6&quot;&gt;1分足&lt;/h4&gt;
-&lt;p&gt;&lt;img src=&quot;/assets/ma200_100_macd/MA200_100_MACD_ma200_100_macd_USDJPY_.gif&quot; alt=&quot;1分足&quot; /&gt;  &lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;/assets/ma200_100_macd/MA200_100_MACD_ma200_100_macd_USDJPY_M1.gif&quot; alt=&quot;1分足&quot; /&gt;  &lt;/p&gt;
 </description>
                 <link>http://deepneko.github.io/2014/11/29/ma200_100_macd</link>
                 <guid>http://deepneko.github.io/2014/11/29/ma200_100_macd</guid>
