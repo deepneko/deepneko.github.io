@@ -5,8 +5,8 @@
         <description>kokotech - deepneko</description>
         <link>http://deepneko.github.io</link>
         <link>http://deepneko.github.io</link>
-        <lastBuildDate>2014-11-28T21:26:35-06:00</lastBuildDate>
-        <pubDate>2014-11-28T21:26:35-06:00</pubDate>
+        <lastBuildDate>2014-11-29T15:22:37-06:00</lastBuildDate>
+        <pubDate>2014-11-29T15:22:37-06:00</pubDate>
         <ttl>1800</ttl>
 
 
@@ -14,7 +14,7 @@
                 <title>移動平均線 + ADX</title>
                 <description>&lt;p&gt;5日/25日クロス交差法 + ADX(14日)&lt;br /&gt;
 USDJPY 5年分(2009/10-2014/10)&lt;br /&gt;
-利食い 500, 損切り 1000で固定  &lt;/p&gt;
+利食い 500, 損切り 1000, スプレッド 10で固定  &lt;/p&gt;
 
 &lt;p&gt;移動平均がゴールデンクロス -&amp;gt; 過去10本以内にADXが-DIをゴールデンクロス&lt;br /&gt;
 -&amp;gt; その後+DIが-DIをゴールデンクロス -&amp;gt; 買い&lt;br /&gt;
