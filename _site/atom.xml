@@ -4,7 +4,7 @@
  <title>kokotech</title>
  <link href="http://deepneko.github.io/" rel="self"/>
  <link href="http://deepneko.github.io"/>
- <updated>2014-11-29T16:22:34-06:00</updated>
+ <updated>2014-11-29T16:26:41-06:00</updated>
  <id>http://deepneko.github.io</id>
  <author>
    <name>deepneko</name>
@@ -17,14 +17,14 @@
    <link href="http://deepneko.github.io/2014/11/29/ma200_100_rate"/>
    <updated>2014-11-29T10:17:00-06:00</updated>
    <id>http://deepneko.github.io/2014/11/29/ma200_100_rate</id>
-   <content type="html">&lt;p&gt;下記URLに書いてある話を本当か？と思いながら実装してみた。
-MACDは使用していない。移動平均200日, 100日と為替レートのみ。
-https://www.gaitameonline.com/academy_chart08.jsp&lt;/p&gt;
+   <content type="html">&lt;p&gt;下記URLに書いてある話を本当か？と思いながら実装してみた。&lt;br /&gt;
+MACDは使用していない。移動平均200日, 100日と為替レートのみ。&lt;br /&gt;
+&lt;a href=&quot;https://www.gaitameonline.com/academy_chart08.jsp&quot;&gt;https://www.gaitameonline.com/academy_chart08.jsp&lt;/a&gt;&lt;/p&gt;
 
 &lt;p&gt;USDJPY 5年分(2009/10-2014/10)&lt;br /&gt;
 利食い 1000, 損切り 1000, スプレッド 10で固定  &lt;/p&gt;
 
-&lt;p&gt;超長期の移動平均を使うだけあって売買頻度は少ないが
+&lt;p&gt;超長期の移動平均を使うだけあって売買頻度は少ないが&lt;br /&gt;
 1時間足では割と良い結果が出ている。&lt;/p&gt;
 
 &lt;h4 id=&quot;section&quot;&gt;日足&lt;/h4&gt;
@@ -34,7 +34,8 @@ https://www.gaitameonline.com/academy_chart08.jsp&lt;/p&gt;
 &lt;p&gt;&lt;img src=&quot;/assets/ma200_100_rate/MA200_100_RATE_ma200_100_rate_USDJPY_H4.gif&quot; alt=&quot;4時間足&quot; /&gt;  &lt;/p&gt;
 
 &lt;h4 id=&quot;section-2&quot;&gt;1時間足&lt;/h4&gt;
-&lt;p&gt;&lt;img src=&quot;/assets/ma200_100_rate/MA200_100_RATE_ma200_100_rate_USDJPY_H1.gif&quot; alt=&quot;1時間足&quot; /&gt;  &lt;/p&gt;
+&lt;p&gt;PF 1.38, Drawdown 8.00%
+&lt;img src=&quot;/assets/ma200_100_rate/MA200_100_RATE_ma200_100_rate_USDJPY_H1.gif&quot; alt=&quot;1時間足&quot; /&gt;  &lt;/p&gt;
 
 &lt;h4 id=&quot;section-3&quot;&gt;30分足&lt;/h4&gt;
 &lt;p&gt;&lt;img src=&quot;/assets/ma200_100_rate/MA200_100_RATE_ma200_100_rate_USDJPY_M30.gif&quot; alt=&quot;30分足&quot; /&gt;  &lt;/p&gt;
