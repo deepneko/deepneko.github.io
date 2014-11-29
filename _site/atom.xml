@@ -4,7 +4,7 @@
  <title>kokotech</title>
  <link href="http://deepneko.github.io/" rel="self"/>
  <link href="http://deepneko.github.io"/>
- <updated>2014-11-28T20:13:24-06:00</updated>
+ <updated>2014-11-28T20:14:11-06:00</updated>
  <id>http://deepneko.github.io</id>
  <author>
    <name>deepneko</name>
@@ -32,7 +32,7 @@ USDJPY 5年分(2009/10-2014/10)&lt;br /&gt;
 &lt;p&gt;&lt;img src=&quot;/assets/ma_st/MA_ST_ma_st_USDJPY_H4.gif&quot; alt=&quot;4時間足&quot; /&gt;  &lt;/p&gt;
 
 &lt;h4 id=&quot;section-2&quot;&gt;1時間足&lt;/h4&gt;
-&lt;p&gt;PF 1.35, Drawdown 3.87%
+&lt;p&gt;PF 1.35, Drawdown 3.87%&lt;br /&gt;
 &lt;img src=&quot;/assets/ma_st/MA_ST_ma_st_USDJPY_H1.gif&quot; alt=&quot;1時間足&quot; /&gt;  &lt;/p&gt;
 
 &lt;h4 id=&quot;section-3&quot;&gt;30分足&lt;/h4&gt;
@@ -47,7 +47,7 @@ USDJPY 5年分(2009/10-2014/10)&lt;br /&gt;
 &lt;h4 id=&quot;section-6&quot;&gt;1分足&lt;/h4&gt;
 &lt;p&gt;&lt;img src=&quot;/assets/ma_st/MA_ST_ma_st_USDJPY_M1.gif&quot; alt=&quot;1分足&quot; /&gt;  &lt;/p&gt;
 
-&lt;p&gt;条件を満たす確率が低すぎる。
+&lt;p&gt;条件を満たす確率が低すぎる。&lt;br /&gt;
 1時間足はマシな値が出てるがサンプルが少なすぎる。&lt;/p&gt;
 </content>
  </entry>
