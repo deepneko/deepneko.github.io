@@ -4,7 +4,7 @@
  <title>kokotech</title>
  <link href="http://deepneko.github.io/" rel="self"/>
  <link href="http://deepneko.github.io"/>
- <updated>2014-11-28T20:14:11-06:00</updated>
+ <updated>2014-11-28T21:22:22-06:00</updated>
  <id>http://deepneko.github.io</id>
  <author>
    <name>deepneko</name>
@@ -49,6 +49,46 @@ USDJPY 5年分(2009/10-2014/10)&lt;br /&gt;
 
 &lt;p&gt;条件を満たす確率が低すぎる。&lt;br /&gt;
 1時間足はマシな値が出てるがサンプルが少なすぎる。&lt;/p&gt;
+</content>
+ </entry>
+ 
+ <entry>
+   <title>移動平均線 + ADX</title>
+   <link href="http://deepneko.github.io/2014/11/28/fx_ma_adx"/>
+   <updated>2014-11-28T14:07:20-06:00</updated>
+   <id>http://deepneko.github.io/2014/11/28/fx_ma_adx</id>
+   <content type="html">&lt;p&gt;5日/25日クロス交差法 + ADX(14日)&lt;br /&gt;
+USDJPY 5年分(2009/10-2014/10)&lt;br /&gt;
+利食い 500, 損切り 1000で固定  &lt;/p&gt;
+
+&lt;p&gt;移動平均がゴールデンクロス -&amp;gt; 過去10本以内にADXが-DIをゴールデンクロス&lt;br /&gt;
+-&amp;gt; その後+DIが-DIをゴールデンクロス -&amp;gt; 買い&lt;br /&gt;
+移動平均がデッドクロス -&amp;gt; 過去10本以内にADXが+DIをゴールデンクロス&lt;br /&gt;
+-&amp;gt; その後-DIが+DIをゴールデンクロス -&amp;gt; 売り&lt;br /&gt;
+移動平均が再びクロスしたら手仕舞  &lt;/p&gt;
+
+&lt;p&gt;こりゃまた条件を満たす確率が低すぎる。  &lt;/p&gt;
+
+&lt;h4 id=&quot;section&quot;&gt;日足&lt;/h4&gt;
+&lt;p&gt;&lt;img src=&quot;/assets/adx_ma/ADX_MA_adx_ma_USDJPY_.gif&quot; alt=&quot;日足&quot; /&gt;  &lt;/p&gt;
+
+&lt;h4 id=&quot;section-1&quot;&gt;4時間足&lt;/h4&gt;
+&lt;p&gt;&lt;img src=&quot;/assets/adx_ma/ADX_MA_adx_ma_USDJPY_.gif&quot; alt=&quot;4時間足&quot; /&gt;  &lt;/p&gt;
+
+&lt;h4 id=&quot;section-2&quot;&gt;1時間足&lt;/h4&gt;
+&lt;p&gt;&lt;img src=&quot;/assets/adx_ma/ADX_MA_adx_ma_USDJPY_.gif&quot; alt=&quot;1時間足&quot; /&gt;  &lt;/p&gt;
+
+&lt;h4 id=&quot;section-3&quot;&gt;30分足&lt;/h4&gt;
+&lt;p&gt;&lt;img src=&quot;/assets/adx_ma/ADX_MA_adx_ma_USDJPY_.gif&quot; alt=&quot;30分足&quot; /&gt;  &lt;/p&gt;
+
+&lt;h4 id=&quot;section-4&quot;&gt;15分足&lt;/h4&gt;
+&lt;p&gt;&lt;img src=&quot;/assets/adx_ma/ADX_MA_adx_ma_USDJPY_.gif&quot; alt=&quot;15分足&quot; /&gt;  &lt;/p&gt;
+
+&lt;h4 id=&quot;section-5&quot;&gt;5分足&lt;/h4&gt;
+&lt;p&gt;&lt;img src=&quot;/assets/adx_ma/ADX_MA_adx_ma_USDJPY_.gif&quot; alt=&quot;5分足&quot; /&gt;  &lt;/p&gt;
+
+&lt;h4 id=&quot;section-6&quot;&gt;1分足&lt;/h4&gt;
+&lt;p&gt;&lt;img src=&quot;/assets/adx_ma/ADX_MA_adx_ma_USDJPY_.gif&quot; alt=&quot;1分足&quot; /&gt;  &lt;/p&gt;
 </content>
  </entry>
  
