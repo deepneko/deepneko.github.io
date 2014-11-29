@@ -5,8 +5,8 @@
         <description>kokotech - deepneko</description>
         <link>http://deepneko.github.io</link>
         <link>http://deepneko.github.io</link>
-        <lastBuildDate>2014-11-28T20:08:02-06:00</lastBuildDate>
-        <pubDate>2014-11-28T20:08:02-06:00</pubDate>
+        <lastBuildDate>2014-11-28T20:13:24-06:00</lastBuildDate>
+        <pubDate>2014-11-28T20:13:24-06:00</pubDate>
         <ttl>1800</ttl>
 
 
@@ -16,9 +16,9 @@
 USDJPY 5年分(2009/10-2014/10)&lt;br /&gt;
 利食い 500, 損切り 1000で固定  &lt;/p&gt;
 
-&lt;p&gt;ゴールデンクロスしたときに、過去7本以内に売られ過ぎ(&amp;lt;30)があったら買い。
-デッドクロスしたときに、過去7本以内に買われ過ぎ(&amp;gt;70)があったら売り。
-移動平均が再びクロスしたら手仕舞。&lt;/p&gt;
+&lt;p&gt;ゴールデンクロスしたときに、過去7本以内に売られ過ぎ(&amp;lt;30)があったら買い&lt;br /&gt;
+デッドクロスしたときに、過去7本以内に買われ過ぎ(&amp;gt;70)があったら売り&lt;br /&gt;
+移動平均が再びクロスしたら手仕舞  &lt;/p&gt;
 
 &lt;h4 id=&quot;section&quot;&gt;日足&lt;/h4&gt;
 &lt;p&gt;&lt;img src=&quot;/assets/ma_st/MA_ST_ma_st_USDJPY_D1.gif&quot; alt=&quot;日足&quot; /&gt;  &lt;/p&gt;
@@ -27,7 +27,8 @@ USDJPY 5年分(2009/10-2014/10)&lt;br /&gt;
 &lt;p&gt;&lt;img src=&quot;/assets/ma_st/MA_ST_ma_st_USDJPY_H4.gif&quot; alt=&quot;4時間足&quot; /&gt;  &lt;/p&gt;
 
 &lt;h4 id=&quot;section-2&quot;&gt;1時間足&lt;/h4&gt;
-&lt;p&gt;&lt;img src=&quot;/assets/ma_st/MA_ST_ma_st_USDJPY_H1.gif&quot; alt=&quot;1時間足&quot; /&gt;  &lt;/p&gt;
+&lt;p&gt;PF 1.35, Drawdown 3.87%
+&lt;img src=&quot;/assets/ma_st/MA_ST_ma_st_USDJPY_H1.gif&quot; alt=&quot;1時間足&quot; /&gt;  &lt;/p&gt;
 
 &lt;h4 id=&quot;section-3&quot;&gt;30分足&lt;/h4&gt;
 &lt;p&gt;&lt;img src=&quot;/assets/ma_st/MA_ST_ma_st_USDJPY_M30.gif&quot; alt=&quot;30分足&quot; /&gt;  &lt;/p&gt;
@@ -40,6 +41,9 @@ USDJPY 5年分(2009/10-2014/10)&lt;br /&gt;
 
 &lt;h4 id=&quot;section-6&quot;&gt;1分足&lt;/h4&gt;
 &lt;p&gt;&lt;img src=&quot;/assets/ma_st/MA_ST_ma_st_USDJPY_M1.gif&quot; alt=&quot;1分足&quot; /&gt;  &lt;/p&gt;
+
+&lt;p&gt;条件を満たす確率が低すぎる。
+1時間足はマシな値が出てるがサンプルが少なすぎる。&lt;/p&gt;
 </description>
                 <link>http://deepneko.github.io/2014/11/28/fx_ma_st</link>
                 <guid>http://deepneko.github.io/2014/11/28/fx_ma_st</guid>
