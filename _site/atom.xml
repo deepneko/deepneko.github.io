@@ -4,7 +4,7 @@
  <title>kokotech</title>
  <link href="http://deepneko.github.io/" rel="self"/>
  <link href="http://deepneko.github.io"/>
- <updated>2014-11-29T16:26:41-06:00</updated>
+ <updated>2014-11-29T16:28:23-06:00</updated>
  <id>http://deepneko.github.io</id>
  <author>
    <name>deepneko</name>
@@ -34,7 +34,7 @@ MACDは使用していない。移動平均200日, 100日と為替レートの�
 &lt;p&gt;&lt;img src=&quot;/assets/ma200_100_rate/MA200_100_RATE_ma200_100_rate_USDJPY_H4.gif&quot; alt=&quot;4時間足&quot; /&gt;  &lt;/p&gt;
 
 &lt;h4 id=&quot;section-2&quot;&gt;1時間足&lt;/h4&gt;
-&lt;p&gt;PF 1.38, Drawdown 8.00%
+&lt;p&gt;PF 1.38, Drawdown 8.00%&lt;br /&gt;
 &lt;img src=&quot;/assets/ma200_100_rate/MA200_100_RATE_ma200_100_rate_USDJPY_H1.gif&quot; alt=&quot;1時間足&quot; /&gt;  &lt;/p&gt;
 
 &lt;h4 id=&quot;section-3&quot;&gt;30分足&lt;/h4&gt;
