@@ -6,6 +6,7 @@ http://deepneko.github.io/rss.xml
 http://deepneko.github.io/sitemap.txt
 http://deepneko.github.io/tags.html
 
+http://deepneko.github.io/2014/11/29/ma_rate_ma_st
 http://deepneko.github.io/2014/11/29/ma200_100_macd
 http://deepneko.github.io/2014/11/29/ma200_100_rate
 http://deepneko.github.io/2014/11/29/fx_macd_st
