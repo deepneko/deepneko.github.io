@@ -14,8 +14,8 @@ date: 2014-11-29 18:34:00
 USDJPY 5年分(2009/10-2014/10)  
 利食い 1000, 損切り 1000, スプレッド 10で固定  
 
-1時間足でマシな結果が出てるな。相変わらず頻度は少ないが。  
-1分足なぜかプラスになってるが、Drawdownがでかい。
+お、1時間足が結構良くなった。
+というか、1時間足しかマシな結果が出ないぞどういうことだ。
 
 #### 日足
 ![日足]({{ site.url }}/assets/ma_rate_ma_st/MA_RATE_MA_ST_ma_rate_ma_st_USDJPY_D1.gif)  
@@ -24,7 +24,7 @@ USDJPY 5年分(2009/10-2014/10)
 ![4時間足]({{ site.url }}/assets/ma_rate_ma_st/MA_RATE_MA_ST_ma_rate_ma_st_USDJPY_H4.gif)  
 
 #### 1時間足
-PF 1.43, Drawdown 8.77%  
+PF 1.44, Drawdown 5.89%  
 ![1時間足]({{ site.url }}/assets/ma_rate_ma_st/MA_RATE_MA_ST_ma_rate_ma_st_USDJPY_H1.gif)  
 
 #### 30分足
