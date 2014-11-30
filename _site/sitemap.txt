@@ -6,6 +6,7 @@ http://deepneko.github.io/rss.xml
 http://deepneko.github.io/sitemap.txt
 http://deepneko.github.io/tags.html
 
+http://deepneko.github.io/2014/11/30/ma_inclination_cross
 http://deepneko.github.io/2014/11/30/ma_inclination
 http://deepneko.github.io/2014/11/30/ma_rate_st_adx
 http://deepneko.github.io/2014/11/29/ma_rate_ma_st
