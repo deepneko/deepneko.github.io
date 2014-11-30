@@ -5,13 +5,13 @@
         <description>kokotech - deepneko</description>
         <link>http://deepneko.github.io</link>
         <link>http://deepneko.github.io</link>
-        <lastBuildDate>2014-11-29T18:37:24-06:00</lastBuildDate>
-        <pubDate>2014-11-29T18:37:24-06:00</pubDate>
+        <lastBuildDate>2014-11-29T18:38:05-06:00</lastBuildDate>
+        <pubDate>2014-11-29T18:38:05-06:00</pubDate>
         <ttl>1800</ttl>
 
 
         <item>
-                <title>(200日,100日移動平均x為替レート) + (移動平均xストキャスティクス)</title>
+                <title>200日,100日移動平均x為替レート + 移動平均xストキャスティクス</title>
                 <description>&lt;p&gt;① 200日移動平均と為替レートとの交差&lt;br /&gt;
 ② 100日移動平均と為替レートとの交差&lt;br /&gt;
 ③ 5日,25日の移動平均線クロス+ストキャスティクス&lt;br /&gt;
