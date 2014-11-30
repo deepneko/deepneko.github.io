@@ -22,14 +22,13 @@ USDJPY 5年分(2009/10-2014/10)
 ![4時間足]({{ site.url }}/assets/ma_inclination_cross/MA_Inclination_Cross_ma_inclination_cross_USDJPY_H4.gif)  
 
 #### 1時間足
-PF 1.06, Drawdown 5.76%  
+PF 1.11, Drawdown 6.77%  
 ![1時間足]({{ site.url }}/assets/ma_inclination_cross/MA_Inclination_Cross_ma_inclination_cross_USDJPY_H1.gif)  
 
 #### 30分足
 ![30分足]({{ site.url }}/assets/ma_inclination_cross/MA_Inclination_Cross_ma_inclination_cross_USDJPY_M30.gif)  
 
 #### 15分足
-PF 1.08, Drawdown 14.36%  
 ![15分足]({{ site.url }}/assets/ma_inclination_cross/MA_Inclination_Cross_ma_inclination_cross_USDJPY_M15.gif)  
 
 #### 5分足
