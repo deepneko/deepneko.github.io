@@ -4,7 +4,7 @@
  <title>kokotech</title>
  <link href="http://deepneko.github.io/" rel="self"/>
  <link href="http://deepneko.github.io"/>
- <updated>2014-11-30T11:53:24-06:00</updated>
+ <updated>2014-11-30T11:54:36-06:00</updated>
  <id>http://deepneko.github.io</id>
  <author>
    <name>deepneko</name>
@@ -22,7 +22,7 @@
 &lt;p&gt;USDJPY 5年分(2009/10-2014/10)&lt;br /&gt;
 利食い 1000, 損切り 1000, スプレッド 10で固定  &lt;/p&gt;
 
-&lt;p&gt;あんま変わらんな…&lt;br /&gt;
+&lt;p&gt;あんま変わらんな…というか若干悪くなってる。&lt;br /&gt;
 これ以上は条件増やしてもしょうがないっぽい。  &lt;/p&gt;
 
 &lt;h4 id=&quot;section&quot;&gt;日足&lt;/h4&gt;
@@ -32,7 +32,7 @@
 &lt;p&gt;&lt;img src=&quot;/assets/ma_rate_st_adx/MA_RATE_ST_ADX_ma_rate_st_adx_USDJPY_H4.gif&quot; alt=&quot;4時間足&quot; /&gt;  &lt;/p&gt;
 
 &lt;h4 id=&quot;section-2&quot;&gt;1時間足&lt;/h4&gt;
-&lt;p&gt;PF 1.44, Drawdown 5.89%&lt;br /&gt;
+&lt;p&gt;PF 1.35, Drawdown 6.18%&lt;br /&gt;
 &lt;img src=&quot;/assets/ma_rate_st_adx/MA_RATE_ST_ADX_ma_rate_st_adx_USDJPY_H1.gif&quot; alt=&quot;1時間足&quot; /&gt;  &lt;/p&gt;
 
 &lt;h4 id=&quot;section-3&quot;&gt;30分足&lt;/h4&gt;

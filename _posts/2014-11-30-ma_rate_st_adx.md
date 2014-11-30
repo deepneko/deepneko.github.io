@@ -10,7 +10,7 @@ date: 2014-11-30 11:47:00
 USDJPY 5年分(2009/10-2014/10)  
 利食い 1000, 損切り 1000, スプレッド 10で固定  
 
-あんま変わらんな...  
+あんま変わらんな...というか若干悪くなってる。  
 これ以上は条件増やしてもしょうがないっぽい。  
 
 #### 日足
@@ -20,7 +20,7 @@ USDJPY 5年分(2009/10-2014/10)
 ![4時間足]({{ site.url }}/assets/ma_rate_st_adx/MA_RATE_ST_ADX_ma_rate_st_adx_USDJPY_H4.gif)  
 
 #### 1時間足
-PF 1.44, Drawdown 5.89%  
+PF 1.35, Drawdown 6.18%  
 ![1時間足]({{ site.url }}/assets/ma_rate_st_adx/MA_RATE_ST_ADX_ma_rate_st_adx_USDJPY_H1.gif)  
 
 #### 30分足
