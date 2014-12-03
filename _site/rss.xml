@@ -5,8 +5,8 @@
         <description>kokotech - deepneko</description>
         <link>http://deepneko.github.io</link>
         <link>http://deepneko.github.io</link>
-        <lastBuildDate>2014-12-02T22:26:41-06:00</lastBuildDate>
-        <pubDate>2014-12-02T22:26:41-06:00</pubDate>
+        <lastBuildDate>2014-12-02T22:30:14-06:00</lastBuildDate>
+        <pubDate>2014-12-02T22:30:14-06:00</pubDate>
         <ttl>1800</ttl>
 
 
@@ -21,6 +21,11 @@
 
 &lt;p&gt;USDJPY 5年分(2009/10-2014/10)&lt;br /&gt;
 スプレッド 10で固定, 1時間足のみ(1番成果が良かったから)  &lt;/p&gt;
+
+&lt;p&gt;驚くほど結果に差異がないな…&lt;br /&gt;
+まぁ、そもそもの利益が大してないからだろう。&lt;br /&gt;
+もっとPFが高いEAが作れたらまた考えよう。&lt;br /&gt;
+色んなパラメータを変えてのテスト自体は重要なので。&lt;/p&gt;
 
 &lt;h4 id=&quot;section&quot;&gt;利食い 500, 損切り 1000&lt;/h4&gt;
 &lt;p&gt;&lt;img src=&quot;/assets/ma_stop/Simple_MA_stop_t1_USDJPY_H1.gif&quot; alt=&quot;&quot; /&gt;  &lt;/p&gt;
