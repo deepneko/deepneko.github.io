@@ -5,10 +5,69 @@
         <description>kokotech - deepneko</description>
         <link>http://deepneko.github.io</link>
         <link>http://deepneko.github.io</link>
-        <lastBuildDate>2014-11-30T13:06:12-06:00</lastBuildDate>
-        <pubDate>2014-11-30T13:06:12-06:00</pubDate>
+        <lastBuildDate>2014-12-02T22:26:41-06:00</lastBuildDate>
+        <pubDate>2014-12-02T22:26:41-06:00</pubDate>
         <ttl>1800</ttl>
 
+
+        <item>
+                <title>ストップロス値を変更してバックテスト</title>
+                <description>&lt;p&gt;今回は移動平均 5日/25日のクロス交差法について&lt;br /&gt;
+ストップロス値を色々変更してバックテスト。  &lt;/p&gt;
+
+&lt;p&gt;本当はこういうパラメータは市場のボラティリティとか総資産から&lt;br /&gt;
+計算して自動で引き出せるようにするのが一番良いんだが&lt;br /&gt;
+どのぐらいが最適値なのかは見極めてみたいのでテスト。  &lt;/p&gt;
+
+&lt;p&gt;USDJPY 5年分(2009/10-2014/10)&lt;br /&gt;
+スプレッド 10で固定, 1時間足のみ(1番成果が良かったから)  &lt;/p&gt;
+
+&lt;h4 id=&quot;section&quot;&gt;利食い 500, 損切り 1000&lt;/h4&gt;
+&lt;p&gt;&lt;img src=&quot;/assets/ma_stop/Simple_MA_stop_t1_USDJPY_H1.gif&quot; alt=&quot;&quot; /&gt;  &lt;/p&gt;
+
+&lt;h4 id=&quot;section-1&quot;&gt;利食い 500, 損切り 1500&lt;/h4&gt;
+&lt;p&gt;&lt;img src=&quot;/assets/ma_stop/Simple_MA_stop_t2_USDJPY_H1.gif&quot; alt=&quot;&quot; /&gt;  &lt;/p&gt;
+
+&lt;h4 id=&quot;section-2&quot;&gt;利食い 500, 損切り 2000&lt;/h4&gt;
+&lt;p&gt;&lt;img src=&quot;/assets/ma_stop/Simple_MA_stop_t3_USDJPY_H1.gif&quot; alt=&quot;&quot; /&gt;  &lt;/p&gt;
+
+&lt;h4 id=&quot;section-3&quot;&gt;利食い 500, 損切り 2500&lt;/h4&gt;
+&lt;p&gt;&lt;img src=&quot;/assets/ma_stop/Simple_MA_stop_t4_USDJPY_H1.gif&quot; alt=&quot;&quot; /&gt;  &lt;/p&gt;
+
+&lt;h4 id=&quot;section-4&quot;&gt;利食い 500, 損切り 3000&lt;/h4&gt;
+&lt;p&gt;&lt;img src=&quot;/assets/ma_stop/Simple_MA_stop_t5_USDJPY_H1.gif&quot; alt=&quot;&quot; /&gt;  &lt;/p&gt;
+
+&lt;h4 id=&quot;section-5&quot;&gt;利食い 500, 損切り 3500&lt;/h4&gt;
+&lt;p&gt;&lt;img src=&quot;/assets/ma_stop/Simple_MA_stop_t6_USDJPY_H1.gif&quot; alt=&quot;&quot; /&gt;  &lt;/p&gt;
+
+&lt;h4 id=&quot;section-6&quot;&gt;利食い 500, 損切り 4000&lt;/h4&gt;
+&lt;p&gt;&lt;img src=&quot;/assets/ma_stop/Simple_MA_stop_t7_USDJPY_H1.gif&quot; alt=&quot;&quot; /&gt;  &lt;/p&gt;
+
+&lt;h4 id=&quot;section-7&quot;&gt;利食い 1000, 損切り 1000&lt;/h4&gt;
+&lt;p&gt;&lt;img src=&quot;/assets/ma_stop/Simple_MA_stop_t8_USDJPY_H1.gif&quot; alt=&quot;&quot; /&gt;  &lt;/p&gt;
+
+&lt;h4 id=&quot;section-8&quot;&gt;利食い 1000, 損切り 1500&lt;/h4&gt;
+&lt;p&gt;&lt;img src=&quot;/assets/ma_stop/Simple_MA_stop_t9_USDJPY_H1.gif&quot; alt=&quot;&quot; /&gt;  &lt;/p&gt;
+
+&lt;h4 id=&quot;section-9&quot;&gt;利食い 1000, 損切り 2000&lt;/h4&gt;
+&lt;p&gt;&lt;img src=&quot;/assets/ma_stop/Simple_MA_stop_t10_USDJPY_H1.gif&quot; alt=&quot;&quot; /&gt;  &lt;/p&gt;
+
+&lt;h4 id=&quot;section-10&quot;&gt;利食い 1000, 損切り 2500&lt;/h4&gt;
+&lt;p&gt;&lt;img src=&quot;/assets/ma_stop/Simple_MA_stop_t11_USDJPY_H1.gif&quot; alt=&quot;&quot; /&gt;  &lt;/p&gt;
+
+&lt;h4 id=&quot;section-11&quot;&gt;利食い 1000, 損切り 3000&lt;/h4&gt;
+&lt;p&gt;&lt;img src=&quot;/assets/ma_stop/Simple_MA_stop_t12_USDJPY_H1.gif&quot; alt=&quot;&quot; /&gt;  &lt;/p&gt;
+
+&lt;h4 id=&quot;section-12&quot;&gt;利食い 1000, 損切り 3500&lt;/h4&gt;
+&lt;p&gt;&lt;img src=&quot;/assets/ma_stop/Simple_MA_stop_t13_USDJPY_H1.gif&quot; alt=&quot;&quot; /&gt;  &lt;/p&gt;
+
+&lt;h4 id=&quot;section-13&quot;&gt;利食い 1000, 損切り 4000&lt;/h4&gt;
+&lt;p&gt;&lt;img src=&quot;/assets/ma_stop/Simple_MA_stop_t14_USDJPY_H1.gif&quot; alt=&quot;&quot; /&gt;  &lt;/p&gt;
+</description>
+                <link>http://deepneko.github.io/2014/12/02/ma_stop</link>
+                <guid>http://deepneko.github.io/2014/12/02/ma_stop</guid>
+                <pubDate>2014-12-02T16:18:40-06:00</pubDate>
+        </item>
 
         <item>
                 <title>移動平均の傾きの移動平均</title>
