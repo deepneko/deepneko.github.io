@@ -1,21 +1,20 @@
 
-http://deepneko.github.io/backup/2014-11-27-fx_ma_data
-http://deepneko.github.io/backup/2014-11-28-fx_ma_adx
-http://deepneko.github.io/backup/2014-11-28-fx_ma_st
-http://deepneko.github.io/backup/2014-11-29-fx_macd_st
-http://deepneko.github.io/backup/2014-11-29-ma200_100_macd
-http://deepneko.github.io/backup/2014-11-29-ma200_100_rate
-http://deepneko.github.io/backup/2014-11-29-ma_rate_ma_st
-http://deepneko.github.io/backup/2014-11-29_fx_macd_st
-http://deepneko.github.io/backup/2014-11-30-ma_inclination
-http://deepneko.github.io/backup/2014-11-30-ma_inclination_cross
-http://deepneko.github.io/backup/2014-11-30-ma_rate_st_adx
-http://deepneko.github.io/backup/2014-12-02-ma_stop
-http://deepneko.github.io/archive
+http://deepneko.github.io/archive.html
 http://deepneko.github.io/atom.xml
-http://deepneko.github.io/
+http://deepneko.github.io/index.html
 http://deepneko.github.io/rss.xml
 http://deepneko.github.io/sitemap.txt
-http://deepneko.github.io/tags
+http://deepneko.github.io/tags.html
 
+http://deepneko.github.io/2014/12/02/ma_stop
+http://deepneko.github.io/2014/11/30/ma_inclination_cross
+http://deepneko.github.io/2014/11/30/ma_inclination
+http://deepneko.github.io/2014/11/30/ma_rate_st_adx
+http://deepneko.github.io/2014/11/29/ma_rate_ma_st
+http://deepneko.github.io/2014/11/29/ma200_100_macd
+http://deepneko.github.io/2014/11/29/ma200_100_rate
+http://deepneko.github.io/2014/11/29/fx_macd_st
+http://deepneko.github.io/2014/11/28/fx_ma_adx
+http://deepneko.github.io/2014/11/28/fx_ma_st
+http://deepneko.github.io/2014/11/27/fx_ma_data
 http://deepneko.github.io/2014/09/21/kokotech_new

@@ -5,7 +5,7 @@
     <meta charset="utf-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
 
-    <title>tags</title>
+    <title>MACD + ストキャスティクス</title>
     
     <meta name="author" content="deepneko">
 
@@ -97,7 +97,7 @@
     
       
       	
-      	<li class="active"><a href="/tags.html" class="active">tags</a></li>
+      	<li><a href="/tags.html">tags</a></li>
       	
       
     
@@ -111,12 +111,13 @@
 
       <div class="container">
         
-
-<h2>Tags</h2>
-
-<ul class="tag_box inline">
-    
+<div class="page-header">
+  <h1>MACD + ストキャスティクス </h1>
+  <h4 style="display:inline">29 Nov 2014</h4>
   
+  <ul class="tag_box inline" style="padding-left: 0px;">
+    
+    
 
 
   
@@ -127,109 +128,64 @@
 
 
 
-</ul>
-
-
- 
-  <h2 id="metatrader-ref">metatrader</h2>
-  <ul>
-      
-    
-
-
-  
-    
-      
-      	
-      	<li><a href="/2014/12/02/ma_stop">ストップロス値を変更してバックテスト</a></li>
-      	
-      
-    
-  
-    
-      
-      	
-      	<li><a href="/2014/11/30/ma_inclination_cross">移動平均の傾きの移動平均</a></li>
-      	
-      
-    
-  
-    
-      
-      	
-      	<li><a href="/2014/11/30/ma_inclination">移動平均の傾き</a></li>
-      	
-      
-    
-  
-    
-      
-      	
-      	<li><a href="/2014/11/30/ma_rate_st_adx">200日,100日移動平均x為替レート + 移動平均xストキャスティクス + 移動平均xADX</a></li>
-      	
-      
-    
-  
-    
-      
-      	
-      	<li><a href="/2014/11/29/ma_rate_ma_st">200日,100日移動平均x為替レート + 移動平均xストキャスティクス</a></li>
-      	
-      
-    
-  
-    
-      
-      	
-      	<li><a href="/2014/11/29/ma200_100_macd">200日,100日移動平均 + 為替レート + MACD</a></li>
-      	
-      
-    
-  
-    
-      
-      	
-      	<li><a href="/2014/11/29/ma200_100_rate">200日,100日移動平均 + 為替レート</a></li>
-      	
-      
-    
-  
-    
-      
-      	
-      	<li><a href="/2014/11/29/fx_macd_st">MACD + ストキャスティクス</a></li>
-      	
-      
-    
-  
-    
-      
-      	
-      	<li><a href="/2014/11/28/fx_ma_adx">移動平均線 + ADX</a></li>
-      	
-      
-    
-  
-    
-      
-      	
-      	<li><a href="/2014/11/28/fx_ma_st">移動平均線 + ストキャスティクス</a></li>
-      	
-      
-    
-  
-    
-      
-      	
-      	<li><a href="/2014/11/27/fx_ma_data">移動平均線データ 短期5日,長期25日</a></li>
-      	
-      
-    
-  
-
-
-
   </ul>
+    
+</div>
+
+<div class="row post-full">
+  <div class="col-xs-12">
+    <div class="content">
+      <p>MACD(短期EMA12日、長期EMA26日、MACDシグナル7日) + ストキャスティクス(%K=5, %D=3, Slow%D=3)<br />
+USDJPY 5年分(2009/10-2014/10)<br />
+利食い 500, 損切り 1000, スプレッド 10で固定  </p>
+
+<p>短期が長期をゴールデンクロス、シグナルが0以下、過去7本以内に売られ過ぎ(&lt;20)があったら買い<br />
+短期が長期をデッドクロス、シグナルが0以上、過去7本以内に買われ過ぎ(&gt;70)があったら売り<br />
+MACDが再びクロスしたら手仕舞  </p>
+
+<p>こりゃまた使い物にならんな。</p>
+
+<h4 id="section">日足</h4>
+<p><img src="/assets/macd_st/MACD_ST_macd_st_USDJPY_D1.gif" alt="日足" />  </p>
+
+<h4 id="section-1">4時間足</h4>
+<p><img src="/assets/macd_st/MACD_ST_macd_st_USDJPY_H4.gif" alt="4時間足" />  </p>
+
+<h4 id="section-2">1時間足</h4>
+<p><img src="/assets/macd_st/MACD_ST_macd_st_USDJPY_H1.gif" alt="1時間足" />  </p>
+
+<h4 id="section-3">30分足</h4>
+<p><img src="/assets/macd_st/MACD_ST_macd_st_USDJPY_M30.gif" alt="30分足" />  </p>
+
+<h4 id="section-4">15分足</h4>
+<p><img src="/assets/macd_st/MACD_ST_macd_st_USDJPY_M15.gif" alt="15分足" />  </p>
+
+<h4 id="section-5">5分足</h4>
+<p><img src="/assets/macd_st/MACD_ST_macd_st_USDJPY_M5.gif" alt="5分足" />  </p>
+
+<h4 id="section-6">1分足</h4>
+<p><img src="/assets/macd_st/MACD_ST_macd_st_USDJPY_M1.gif" alt="1分足" />  </p>
+
+
+    </div>
+    <hr>
+    <div id="disqus_thread"></div>
+<script type="text/javascript">
+    var disqus_developer = 1;
+    
+    /* * * DON'T EDIT BELOW THIS LINE * * */
+    (function() {
+        var dsq = document.createElement('script'); dsq.type = 'text/javascript'; dsq.async = true;
+        dsq.src = 'http://kokonani.disqus.com/embed.js';
+        (document.getElementsByTagName('head')[0] || document.getElementsByTagName('body')[0]).appendChild(dsq);
+    })();
+</script>
+<noscript>Please enable JavaScript to view the <a href="http://disqus.com/?ref_noscript">comments powered by Disqus.</a></noscript>
+<a href="http://disqus.com" class="dsq-brlink">blog comments powered by <span class="logo-disqus">Disqus</span></a>
+
+
+  </div>
+</div>
 
 
       </div>
